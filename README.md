@@ -1,2 +1,2 @@
 # Museum-Of-Candy
-Live : https://safepasswords.netlify.app/
+Live : https://candymuseumweb.netlify.app/#
